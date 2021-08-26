@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jianrongyu
-- 👀 Linguist, syntax, semantics, morphology
-- 🌱 Event and argument structure, lexical decomposition, sub-lexical modification
-- 💞️ Ph.D. Linguistics (Arizona), Post-doctoralm Research Assistant (NUS Singapore), Part-time lecturer (NTU Singapore)
+- 👀 linguist, syntax, semantics, morphology
+- 🌱 event and argument structure, lexical decomposition, sub-lexical modification
+- 💞️ Ph.D. Linguistics (Arizona), post-doctoral research assistant (NUS Singapore), part-time lecturer (NTU Singapore)
 - 📫 jianrongyu@email.arizona.edu, jianrong@nus.edu.sg, jianrong26988@gmail.com, http://tinyurl.com/jianrongyu
 
 <!---
